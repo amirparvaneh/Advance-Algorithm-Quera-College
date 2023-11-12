@@ -1,4 +1,4 @@
-package chapter5.backtracking;
+package chapter7.backtracking;
 
 import java.util.Scanner;
 import java.util.ArrayList;
