@@ -1,4 +1,4 @@
-package chapter2.timeanalysis;
+package chapter1.welcomeToAlgorithm;
 
 import java.util.Arrays;
 import java.util.List;
